@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achgeek
-- 👀 I’m interested in automation topics (scripting/devops/sysadmin)
-- 🌱 I’m currently learning best practices 
+- 👀 I’m interested in automation topics (script/devops/sysadmin)
+- 🌱 I’m currently learning Terraform & Kubernetes 
 - 💞️ I’m looking to collaborate on kubernetes projects
 - 📫 How to reach me, just ping me on github!
 
